@@ -4,10 +4,10 @@ Seu objetivo é estritamente educacional, para fins de aprendizado e prática pe
 Não deve ser utilizado como critério de avaliação técnica para processos seletivos ou análise de portfólio.
 
 #⚠️ Nota para recrutadores:
-# Este repositório não representa minha experiência profissional ou capacidade de resolver problemas do mundo real.
+Este repositório não representa minha experiência profissional ou capacidade de resolver problemas do mundo real.
 
 
-# Este projeto foi desenvolvido como parte do curso Back-end com Python ministrado por DIO CURSOS.
+Este projeto foi desenvolvido como parte do curso Back-end com Python ministrado por DIO CURSOS.
 Ele tem como principal objetivo aplicar conceitos como:
 
 [✅] Estruturação de código em [Python]
