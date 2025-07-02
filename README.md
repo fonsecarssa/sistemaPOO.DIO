@@ -7,7 +7,7 @@ Não deve ser utilizado como critério de avaliação técnica para processos se
 Este repositório não representa minha experiência profissional ou capacidade de resolver problemas do mundo real.
 
 
-Este projeto foi desenvolvido como parte do curso Back-end com Python ministrado por DIO CURSOS.
+# Este projeto foi desenvolvido como parte do curso Back-end com Python ministrado por DIO CURSOS.
 Ele tem como principal objetivo aplicar conceitos como:
 
 [✅] Estruturação de código em [Python]
