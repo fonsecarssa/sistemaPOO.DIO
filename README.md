@@ -3,7 +3,7 @@ Este código foi desenvolvido 100% como parte de um curso online, seguindo instr
 Seu objetivo é estritamente educacional, para fins de aprendizado e prática pessoal.
 Não deve ser utilizado como critério de avaliação técnica para processos seletivos ou análise de portfólio.
 
-#⚠️ Nota para recrutadores:
+# ⚠️ Nota para recrutadores:
 Este repositório não representa minha experiência profissional ou capacidade de resolver problemas do mundo real.
 
 
